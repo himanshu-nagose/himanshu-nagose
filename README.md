@@ -1,10 +1,10 @@
-👋 Hi, I’m **@himanshu-nagose**
-👨‍💻 I’m passionate about **Java Development** and **DevOps Engineering**
-🔧 I work on building robust backend systems and automating **CI/CD pipelines**
-🌱 Currently enhancing my skills in **Spring Boot**, **Docker**, **AWS**, and **Kubernetes**
-🤝 I’m open to collaborating on **Java-based projects**, backend APIs, and **DevOps automation tools**
-😄 Pronouns: He/Him
-📸 Fun fact: I love Photography and Travelling — capturing moments fuels my creativity!
+- 👋 Hi, I’m **@himanshu-nagose**
+- 👨‍💻 I’m passionate about **Java Development** and **DevOps Engineering**.
+- 🔧 I work on building robust backend systems and automating **CI/CD pipelines**.
+- 🌱 Currently enhancing my skills in **Spring Boot**, **Docker**, **AWS**, and **Kubernetes**.
+- 🤝 I’m open to collaborating on **Java-based projects**, backend APIs, and **DevOps automation tools**.
+- 😄 Pronouns: **He/Him**
+- 📸 Fun fact: I love **Photography and Travelling** — capturing moments fuels my creativity!
 
 <!--
 - 👋 Hi, I’m **@himanshu-nagose**
