@@ -1,12 +1,12 @@
 # 👋 Hi, I’m @himanshu-nagose
 
-💼 Software Engineer at **Cognizant**  
-☕ Java Full Stack Developer (**Spring Boot | Angular**)  
-🔧 CI/CD • Docker • AWS • Kubernetes (Basics)  
-🌱 Learning system design & cloud-native development  
-🤝 Open to Java, full-stack & DevOps collaborations  
-📸 Photography & Travel enthusiast  
-😄 He/Him
+- 💼 Software Engineer at **Cognizant**
+- ☕ Java Full Stack Developer (**Spring Boot | Angular**)
+- 🔧 CI/CD • Docker • AWS • Kubernetes (Basics)
+- 🌱 Learning system design & cloud-native development
+- 🤝 Open to Java, full-stack & DevOps collaborations
+- 📸 Photography & Travel enthusiast
+- 😄 He/Him
 
 
 <!--
