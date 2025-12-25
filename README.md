@@ -1,3 +1,31 @@
+# 👋 Hi, I'm Himanshu Nagose (@himanshu-nagose)
+
+💼 **Software Engineer at XYZ Organization**  
+☕ **Java Full Stack Developer**
+
+### 🚀 Tech Stack
+- **Backend:** Java, Spring Boot, REST APIs  
+- **Frontend:** Angular  
+- **DevOps & Cloud:** CI/CD, Docker, AWS, Kubernetes (Basics)
+
+### 🌱 Currently Growing In
+- System Design  
+- Cloud-Native Development  
+- DevOps Best Practices  
+
+### 🤝 Open to Collaborate On
+- Java & Angular Full Stack Projects  
+- Backend APIs & Microservices  
+- DevOps Automation Tools  
+
+### 😄 Pronouns
+- He/Him  
+
+### 📸 Fun Fact
+- Photography & Travelling — capturing moments fuels my creativity ✨
+
+
+<!--
 - 👋 Hi, I’m **@himanshu-nagose**
 - 👨‍💻 I’m passionate about **Java Development** and **DevOps Engineering**.
 - 🔧 I work on building robust backend systems and automating **CI/CD pipelines**.
@@ -5,6 +33,7 @@
 - 🤝 I’m open to collaborating on **Java-based projects**, backend APIs, and **DevOps automation tools**.
 - 😄 Pronouns: **He/Him**
 - 📸 Fun fact: I love **Photography and Travelling** — capturing moments fuels my creativity!
+  -->
 
 <!--
 - 👋 Hi, I’m **@himanshu-nagose**
